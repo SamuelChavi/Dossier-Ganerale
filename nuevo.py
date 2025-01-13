@@ -1,0 +1,1 @@
+print('12/01/2025 Bitacora 1')
